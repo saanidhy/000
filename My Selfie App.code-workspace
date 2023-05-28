@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/blue-curve-background"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My Selfie App"
+	}
+}
